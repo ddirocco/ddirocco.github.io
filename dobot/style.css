@@ -56,7 +56,14 @@ body {
 h1 {
 	font-family: Quatro Slab;
 	font-size: 36px;
-	color:white;
+	color: white;
+}
+
+h2 {
+	font-family: Quatro Slab;
+	font-style: Regular;
+	font-size: 24px;
+	color: white;
 }
 
 .sub-heading {
@@ -78,3 +85,4 @@ h1 {
 	font-style: Regular;
 	color: rgb(1,191,193);
 	font-size: 16px;
+}
