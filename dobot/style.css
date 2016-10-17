@@ -96,6 +96,37 @@ h2 {
 	float: right;
 }
 
+h1 {
+	text-align: left;
+	width: 370px;
+	margin-bottom: 15px;
+	background-color: green;
+	margin-top: 100px;
+}
+
+.sub-heading {
+	width: 200px;
+	background-color: green;
+	margin-bottom: 30px;
+}
+
+.description{ 
+	background-color: green;
+	margin-bottom: 21px;
+	width: 370px;
+}
+
+.check-out {
+	background-color: green;
+	margin-top: 11px;
+	margin-bottom: 35px;
+	width: 370px;
+}
+
+a {
+	text-decoration: none;
+}
+
 #main {
   width: 1100px;
   margin: 0 auto; 
