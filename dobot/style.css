@@ -123,6 +123,18 @@ h1 {
 	width: 370px;
 }
 
+.buy {
+	color: white;
+	display: inline-block;
+	background-color: cyan;
+	padding: 13px;
+}
+
+h2 {
+	display: inline-block;
+	margin-right: 13px;
+}
+
 a {
 	text-decoration: none;
 }
