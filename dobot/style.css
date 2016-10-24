@@ -103,8 +103,9 @@ h2 {
 	max-width: 500px;
 }
 
-.artcicle {
+.article {
 	position: relative;
+	clear: both;
 }
 
 .image {
