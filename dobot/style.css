@@ -52,6 +52,10 @@ table {
 
 body {
 	background-color: rgb(26,35,37);
+	border-top-width: 3px;
+	border-top-color: rgb(248,105,90);
+	border-top-style: solid;
+	border-top-position: absolute;
 }
 
 h1 {
@@ -106,7 +110,9 @@ h2 {
 .image {
 	float: right;
 	width: 645px;
-	position: absolute;
+	/*position: absolute;
+	left: 600px;
+	top: 0px;*/
 }
 
 
