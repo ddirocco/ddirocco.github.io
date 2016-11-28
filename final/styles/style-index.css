@@ -49,4 +49,8 @@ table {
 
 
 
-
+header {
+	text-decoration-color: white;
+	border-top: 30px;
+	border-style: solid;
+}
