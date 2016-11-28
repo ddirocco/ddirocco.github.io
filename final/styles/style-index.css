@@ -48,7 +48,16 @@ table {
 }
 
 
+.wrap {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 1200px;
+}
+
 header {
+	padding-left:20px;
+	padding-top:20px;
 	height: 50px;
 	background-color: black;
 	color: white;
@@ -58,7 +67,7 @@ header {
 }
 
 .photo-image {
-	height: 300px;
+	width: 500px;
 	}
 
 .photo{
@@ -66,13 +75,39 @@ header {
 	width: 500px;
 }
 
+.design-image {
+	height:500px;
+}
+
 .design {
-	background-color: blue;
+	background-color: yellow;
 	width: 500px;
 }
 
 .about {
 	background-color: red;
+	width: 1000px;
 }
+
+a {
+	text-decoration: none;
+}
+
+article {
+	padding-top: 50px;
+	display: inline-block;
+	font-family: Avenir Light;
+	font-size: 15px;
+	line-height: 17px;
+}
+
+h1 {
+	font-family: Avenir Heavy;
+}
+
+p {
+	padding-top: 20px;
+}
+
 
 
