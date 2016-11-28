@@ -52,15 +52,27 @@ header {
 	height: 50px;
 	background-color: black;
 	color: white;
-	font-family: Bodoni Book;
+	font-family: Avenir;
 	font-size: 30px;
 	text-align: left;
 }
 
 .photo-image {
-	height: 200px;
+	height: 300px;
 	}
 
-.design {
-
+.photo{
+	background-color: green;
+	width: 500px;
 }
+
+.design {
+	background-color: blue;
+	width: 500px;
+}
+
+.about {
+	background-color: red;
+}
+
+
