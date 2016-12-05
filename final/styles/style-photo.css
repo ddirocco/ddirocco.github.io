@@ -47,6 +47,11 @@ table {
 	border-spacing: 0;
 }
 
+
+body {
+	font-weight: 300;
+}
+
 .wrap {
 	width: 90%;
 	margin-right: auto;
@@ -71,18 +76,23 @@ header {
 	height: 50px;
 	background-color: black;
 	color: white;
-	font-family: Avenir;
+	font-family: Catamaran;
 	font-size: 30px;
 	text-align: left;
 }
 
+.logo {
+	position: relative;
+	z-index: 1;
+}
+
 h2 {
 	color: white;
-	font-family: Avenir;
+	font-family: Catamaran;
 	font-size: 30px;
 	text-align: center;
 	position: relative;
-	top: -50px;
+	top: -30px;
 }
 
 a {
