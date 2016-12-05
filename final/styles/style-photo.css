@@ -74,7 +74,15 @@ header {
 	font-family: Avenir;
 	font-size: 30px;
 	text-align: left;
-	width: 100%;
+}
+
+h2 {
+	color: white;
+	font-family: Avenir;
+	font-size: 30px;
+	text-align: center;
+	position: relative;
+	top: -50px;
 }
 
 a {

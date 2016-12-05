@@ -56,7 +56,6 @@ header {
 	font-family: Avenir;
 	font-size: 30px;
 	text-align: left;
-	width: 100%;
 }
 
 .wrap {
@@ -69,11 +68,11 @@ header {
 
 .photo-image {
 	width: 500px;
-	}
+	}*
 
 .photo{
-	background-color: green;
-	width: 500px;
+	/*background-color: green;*/
+	width: 50%;
 }
 
 .design-image {
@@ -81,13 +80,13 @@ header {
 }
 
 .design {
-	background-color: yellow;
-	width: 500px;
+	/*background-color: yellow;*/
+	width: 49.6%;
 }
 
 .about {
-	background-color: red;
-	width: 1000px;
+	/*background-color: red;*/
+	width: 100%;
 }
 
 a {
