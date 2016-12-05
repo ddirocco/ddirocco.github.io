@@ -70,23 +70,25 @@ header {
 	width: 500px;
 	}*
 
-.photo{
-	/*background-color: green;*/
-	width: 50%;
-}
-
 .design-image {
 	height:500px;
 }
 
+.photo{
+	/*background-color: green;*/
+	width: 45%;
+	float: right;
+}
 .design {
 	/*background-color: yellow;*/
-	width: 49.6%;
+	width: 45%;
+	float: left;
 }
 
 .about {
 	/*background-color: red;*/
 	width: 100%;
+	padding-top: 50px;
 }
 
 a {
